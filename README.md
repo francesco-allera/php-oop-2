@@ -10,4 +10,4 @@
 
 Practicing more advanced notions of OOP (inheritance, polymorphism, visibility, exceptions, try and catch).
 
-Creating an online shop. Structure the classes by handling inheritance where necessary. Try to make objects interact with each other (ex: shop user enters a credit card). Handle exceptions (ex: credit card expired).
+Creating an online shop. Structure the classes by handling inheritance where necessary. Try to make objects interact with each other, ex: shop user enters a credit card. Handle exceptions, ex: credit card expired.
